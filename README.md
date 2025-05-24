@@ -6,9 +6,9 @@
 ![image](https://github.com/user-attachments/assets/42025cd5-2433-4b7b-98f7-29432903c25f)
 DB에 Secrets manager키 등록
 ![image](https://github.com/user-attachments/assets/4b69f769-68b4-4bb5-acff-8766bde0e8f6)
-DB에 Secrets manager키 등록
-![image](https://github.com/user-attachments/assets/34a6cdb8-43b2-4891-9507-4b3553fd6f4c)
 DB - Web 데이터 연동
+![image](https://github.com/user-attachments/assets/34a6cdb8-43b2-4891-9507-4b3553fd6f4c)
+AWS - Azure 멀티 클라우드 백업
 ![image](https://github.com/user-attachments/assets/7a955d27-494d-4868-b901-90e99ebeefab)
 APIGateway - Lambda 함수 설정
 ![image](https://github.com/user-attachments/assets/3b732cde-c4ff-406a-8dca-83a1b8f51da1)
