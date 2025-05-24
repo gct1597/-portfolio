@@ -6,13 +6,13 @@
 ![image](https://github.com/user-attachments/assets/42025cd5-2433-4b7b-98f7-29432903c25f)
 DB에 Secrets manager키 등록
 ![image](https://github.com/user-attachments/assets/4b69f769-68b4-4bb5-acff-8766bde0e8f6)
-DB - Web 데이터 연동
+DB에 Secrets manager키 등록
 ![image](https://github.com/user-attachments/assets/34a6cdb8-43b2-4891-9507-4b3553fd6f4c)
-APIGateway - Lambda 함수 설정
+DB - Web 데이터 연동
 ![image](https://github.com/user-attachments/assets/7a955d27-494d-4868-b901-90e99ebeefab)
-Cognito 를 이용하여 사용자 인증
+APIGateway - Lambda 함수 설정
 ![image](https://github.com/user-attachments/assets/3b732cde-c4ff-406a-8dca-83a1b8f51da1)
-토큰값을 불러오는 오류 트러블슈팅
+Cognito 를 이용하여 사용자 인증
 ![image](https://github.com/user-attachments/assets/e183a12d-936e-4a64-b571-f5c24007b0ab)
-
+토큰값을 불러오는 오류 트러블슈팅
 ![image](https://github.com/user-attachments/assets/a98d2d40-7603-49ca-9fbc-962cb48410fd)
